@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ApplicationInbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BrandInbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BrandPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BrandToManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeInbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeJobApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeePanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeToManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnterPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GetaRaiseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerInbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerListProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerToEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerToSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupplierPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupplierToEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
